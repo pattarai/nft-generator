@@ -1,13 +1,13 @@
-# {project title} ✨
+# NFT Generator ✨
 
 ### Description
-{mini project description goes here...}
+To generate NFTs using code.
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
 ### Contributers
-<a href="https://github.com/pattarai/mini-project-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pattarai/mini-project-template" />
+<a href="https://github.com/pattarai/nft-generator/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pattarai/nft-generator" />
 </a>
 
 
